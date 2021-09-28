@@ -13,7 +13,7 @@ package exercises
   * A packet of rice is currently priced at $10.99, and the customer bought 5.
   *
   **/
-object OutputJSON {
+object ShoppingCartItemEx1 {
 
   def main(args: Array[String]): Unit = {
     val shoppingCartItem = ("rice", 10.99f, 5)
